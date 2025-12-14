@@ -1,0 +1,22 @@
+{
+  "1234": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "12341": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "Weinsther": {
+    "password": "53ac545ef70da3a270c5aaa1e96203ebadec73a37317a4867ba7d91bbc9813ec",
+    "token": "b17179a9-cf58-48a2-87b9-933493ef6280"
+  },
+  "JohnPork": {
+    "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "token": null
+  },
+  "john": {
+    "password": "09aabcd859e4a72f92230e07e6fa14a1848af2f98d4d0e85f18ea4a697115621",
+    "token": null,
+    "credits": 99
+  },
+  "test": {
+    "password": "aaaa",
+    "token": null,
+    "credits": 86
+  }
+}
